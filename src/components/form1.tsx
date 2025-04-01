@@ -1,7 +1,7 @@
 function form1 () {
     return (
         <>
-            <form>
+            <form className="paragraph">
                 <label htmlFor="favoriteGame">Enter your favorite game:</label>
                 <input type="text" id="favoriteGame"/>
                 <br/>
@@ -62,7 +62,6 @@ function form1 () {
                 <br/>
                 <br/>
                 <button id="submit">Submit</button>
-                <link rel="stylesheet" type="text/css" href="public/mystyles.css"/>
             </form>
         </>
     )

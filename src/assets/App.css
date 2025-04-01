@@ -1,0 +1,42 @@
+body {
+  color: black;
+  background-color: lightgray;
+  font-family: Arial, Georgia, "Times New Roman", Times, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #00509e;
+}
+
+table, tr, td, th {
+  border: 1px solid lightblue;
+  text-align: center;
+}
+
+
+.collapse {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.collapse, .collapse th, .collapse td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.paragraph {
+  width: 60%;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: whitesmoke;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.input {
+  background-color: whitesmoke;
+}
