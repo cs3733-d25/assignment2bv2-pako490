@@ -6,7 +6,7 @@ export default function hobby2() {
             Badminton is a sport where you hit a shuttlecock around a court. I picked up badminton
             last year and began watching the badminton world tour which you can find in the link below.
             Below is also a picture of my favorite badminton Lee Chong Wei.
-            <img alt="badminton photo" width="640" height="540" src="public/lcw.jpeg"></img>
+            <img alt="badminton photo" width="640" height="540" src="assets/lcw.jpeg"></img>
         </p>
 
         <ul>
